@@ -1,4 +1,3 @@
-## Hi there 👋
 <!--START_SECTION:waka-->
 
 ```txt
@@ -8,17 +7,11 @@ Bash         4 mins          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-<!--
-**HigherAndHigher/HigherAndHigher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- activity graph heroku-app start -->
+<p align="center">
+  <a href="https://wakatime.com/@Momotaro">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=HigherAndHigher&theme=react-light&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"
+      width="95%" alt="activity graph">
+  </a>
+</p>
